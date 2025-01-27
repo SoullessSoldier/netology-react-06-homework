@@ -1,0 +1,24 @@
+.watch-control-form {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+.watch-control-element {
+    position: relative;
+    width: 250px;
+}
+
+.watch-control-element input, 
+.watch-control-element select {
+    width: 100%;
+    padding: 10px 15px;
+} 
+
+.watch-control-label {
+    position: absolute;
+    top: -30px;
+    left: 0;
+}
