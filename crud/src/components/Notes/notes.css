@@ -1,0 +1,17 @@
+.notes-header {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+}
+.notes-title {
+    font-size: 2rem;
+}
+.notes-content {
+    width: 100%;
+    margin-bottom: 20px;
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+}

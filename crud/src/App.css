@@ -1,0 +1,40 @@
+#root {
+  max-width: 1280px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+.notes-button {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  background-color: #fff;
+  border-radius: 50%;
+  border: 2px solid #000;
+  cursor: pointer;
+}
+
+.notes-button:hover {
+  background-color: #bebebe;
+}
+
+.notes-button-green {
+  color: #60da87;
+}
+
+.notes-button-red {
+  color: #f43e49;
+}
+
+.notes-button-black {
+  color: #060606;
+}
+
+
+
+
+

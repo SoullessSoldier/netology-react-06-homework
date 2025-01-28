@@ -1,0 +1,25 @@
+.notes-form {
+    display: inline-block;
+    font-size: 1.3rem;
+}
+.notes-form-inputwrapper {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+.notes-form-label {}
+.notes-textarea {
+    height: 7em;
+    width: 30em;
+    padding: 20px 30px 20px 20px;
+    font-size: inherit;
+    resize: none;
+    text-wrap: balance;
+}
+
+.notes-form-inputwrapper .notes-button {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
